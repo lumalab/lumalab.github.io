@@ -1,0 +1,14 @@
+body {
+	position: relative;
+}
+
+.logo {
+	max-width: 1240px;
+	position: absolute;
+	top: 5%;
+	left: 50%;
+	-webkit-transform: translate(-50%, 5%);
+	-ms-transform: translate(-50%, 5%);
+	-o-transform: translate(-50%, 5%);
+	transform: translate(-50%, 5%);
+}
