@@ -63,7 +63,7 @@ main {
 }
 .content__opening {
 	font-size: 20px;
-	width: 500px;
+	width: 300px;
 	margin: 0 auto;
 	margin-bottom: 1em;
 }
@@ -149,4 +149,10 @@ footer a {
 #mce-EMAIL {
 	display: inline-block;
 	width: 80%;
+}
+
+@media all and (min-width: 600px) {
+	.content__opening {
+		width: 500px;
+	}
 }
