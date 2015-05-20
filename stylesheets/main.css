@@ -134,6 +134,7 @@ footer .footer-left #mce-EMAIL {
 }
 footer .footer-left #mc-embedded-subscribe {
 	min-width: 75px;
+	max-width: 125px;
 	width: 25%;
 	border: 0;
 	border-radius: 0px;
